@@ -191,6 +191,14 @@ For generalization to new comers experiment, please use the following arguments 
 
 ## Citation
 If you find this repository useful, please cite our work:
-
+```
+@article{morafah2023practical,
+  title={A Practical Recipe for Federated Learning Under Statistical Heterogeneity Experimental Design},
+  author={Morafah, Mahdi and Wang, Weijia and Lin, Bill},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+```
 ## Contact
 For any issues please feel free to submit an issue. We are also open to any contributions.
